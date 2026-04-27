@@ -1,6 +1,4 @@
 # VocaSched-DT-Dataset
-Dataset and evaluation files for VocaSched-DT: A digital-twin-driven cloud-edge scheduling framework for practical teaching resources in higher education.
-VocaSched-DT Dataset Release
 
 **VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education**
 

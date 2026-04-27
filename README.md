@@ -32,7 +32,6 @@ VocaSched-DT is a teaching-aware cloud–edge scheduling framework designed for 
 | `practical_validation_nem_lab.csv` | Practical validation results for the NEM laboratory case |
 | `resource_nodes.csv` | Local edge, peer edge, and cloud resource pool details |
 | `course_catalog.csv` | Department-wise practical course catalog |
-| `task_templates.csv` | Workload template ranges for each task class |
 | `data_dictionary.csv` | Column definitions |
 | `dataset_construction_protocol.csv` | Dataset construction steps aligned with the paper methodology |
 | `quality_control_report.csv` | Consistency and validation checks |

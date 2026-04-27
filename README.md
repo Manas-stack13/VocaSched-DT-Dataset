@@ -58,6 +58,5 @@ print(summary)
 Citation
 
 If you use this dataset, please cite the related paper (link will be updated after publication:
-
 VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education.
 ```

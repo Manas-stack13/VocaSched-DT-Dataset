@@ -45,7 +45,7 @@ How to Use
 
 Open the CSV files in Microsoft Excel, Python, R, MATLAB, or any spreadsheet/data-analysis tool.
 
-For Python:
+```For Python:
 
 import pandas as pd
 
@@ -54,6 +54,7 @@ results = pd.read_csv("scheduler_results.csv")
 summary = pd.read_csv("scheduler_performance_summary.csv")
 
 print(tasks.head())
+```
 print(summary)
 Citation
 

@@ -58,5 +58,20 @@ print(summary)
 Citation
 
 If you use this dataset, please cite the related paper (link will be updated after publication:
+
 VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education.
 ```
+
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this dataset and associated documentation files, to deal in the dataset
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or use the dataset for
+research and educational purposes, subject to proper citation of the related work.
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.

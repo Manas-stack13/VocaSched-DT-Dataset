@@ -39,3 +39,24 @@ The main task records follow the VocaSched-DT task model:
 
 ```text
 Task = {Teaching Context, Resource Demand, Scheduling Constraints, Environment State}
+
+
+How to Use
+
+Open the CSV files in Microsoft Excel, Python, R, MATLAB, or any spreadsheet/data-analysis tool.
+
+For Python:
+
+import pandas as pd
+
+tasks = pd.read_csv("task_records.csv")
+results = pd.read_csv("scheduler_results.csv")
+summary = pd.read_csv("scheduler_performance_summary.csv")
+
+print(tasks.head())
+print(summary)
+Citation
+
+If you use this dataset, please cite the related paper:
+
+VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education.

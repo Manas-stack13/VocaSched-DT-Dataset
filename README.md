@@ -39,7 +39,7 @@ The main task records follow the VocaSched-DT task model:
 
 ```text
 Task = {Teaching Context, Resource Demand, Scheduling Constraints, Environment State}
-
+```
 
 How to Use
 

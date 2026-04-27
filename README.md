@@ -2,6 +2,13 @@
 
 **VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education**
 
+Contributors: 
+1. Wenqi Yan,
+2. Qi Liu,
+3. Guobing Mao,
+4. Feng Tao
+
+All authors belong to: School of Material Science and Engineering, Anhui Polytechnic University, Wuhu, Anhui, 241000, China
 ## Overview
 
 VocaSched-DT is a teaching-aware cloud–edge scheduling framework designed for practical teaching environments in higher education. The dataset represents practical teaching tasks as structured records combining:

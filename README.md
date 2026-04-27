@@ -45,8 +45,8 @@ How to Use
 
 Open the CSV files in Microsoft Excel, Python, R, MATLAB, or any spreadsheet/data-analysis tool.
 
-```For Python:
-
+For Python:
+```
 import pandas as pd
 
 tasks = pd.read_csv("task_records.csv")
@@ -56,9 +56,10 @@ summary = pd.read_csv("scheduler_performance_summary.csv")
 print(tasks.head())
 print(summary)
 
-```Citation
+```
+Citation
 
-If you use this dataset, please cite the related paper:
+If you use this dataset, please cite the related paper (link will be updated after publication:
 
 VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education.
 ```

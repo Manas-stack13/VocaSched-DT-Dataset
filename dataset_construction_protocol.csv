@@ -1,0 +1,8 @@
+﻿Stage,Description
+Institutional scenario specification,"Defines departments, course categories, laboratories, resource layers, class durations, batch sizes, and assessment settings."
+NEM classroom orientation,"Assigns a larger share of records to New Energy Materials courses such as battery material characterization, EIS, microscopy streams, photovoltaic characterization, DFT-assisted demonstrations, and molecular dynamics."
+Teaching-task template definition,"Maps each practical activity class to CPU, GPU, memory, bandwidth, runtime, latency tolerance, continuity sensitivity, skill criticality, and migration tolerance ranges."
+Timetable-linked task construction,"Creates class windows, arrival patterns, deadlines, batch sizes, overlap events, and exam-week modifiers."
+Digital-twin state attachment,"Attaches edge queue length, node utilization, network RTT, packet loss, lab occupancy, node health score, and predicted next-slot load."
+Scheduler evaluation,"Evaluates FCFS, EDF, Round Robin, Multi-Objective Optimizer, DRL-Based Adaptive Scheduler, and VocaSched-DT using the same task pool and scenario settings."
+Quality control,"Checks schema consistency, class-window logic, deadline logic, task-template alignment, distribution balance, and scenario stress behavior."

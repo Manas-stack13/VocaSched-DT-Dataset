@@ -1,0 +1,11 @@
+﻿Check,Value,Status
+Total task records,6200,Pass
+Scheduler result rows,37200,Pass
+Departments represented,6,Pass
+Scenario groups represented,5,Pass
+Task classes represented,5,Pass
+Records with missing values,0,Pass
+Arrival time inside class window,All records,Pass
+Deadline not after class end for evaluation,Controlled by latest acceptable completion logic,Pass
+NEM representation,2104 records,Pass
+File formats,CSV and TXT only,Pass

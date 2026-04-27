@@ -1,0 +1,38 @@
+﻿DepartmentID,DepartmentName,CourseType,PrimaryLabType,TeachingFocus
+NEM,New Energy Materials,Advanced Battery Management Systems and Material Characterization,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Electrochemical Impedance Spectroscopy for Solid-State Batteries,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Cathode Material Preparation Digital Twin,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,AI-Based Microstructure Analysis of Perovskite Solar Cells,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Photovoltaic Thin-Film Characterization,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Hydrogen Storage Materials Simulation,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Fuel-Cell Catalyst Characterization,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Supercapacitor Electrode Testing,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Battery Thermal Safety Visualization,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,DFT-Assisted Materials Property Demonstration,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,Molecular Dynamics of Solid Electrolytes,NEM Digital Simulation Laboratory,New energy materials practical teaching
+NEM,New Energy Materials,High-Resolution Microscopy Stream Analysis,NEM Digital Simulation Laboratory,New energy materials practical teaching
+ELEC,Electronics Training,Embedded Systems Practical,Electronics Training Lab,Digital practical teaching
+ELEC,Electronics Training,Power Electronics Lab,Electronics Training Lab,Digital practical teaching
+ELEC,Electronics Training,AI-Assisted Circuit Testing,Electronics Training Lab,Digital practical teaching
+ELEC,Electronics Training,Sensor Calibration and Data Logging,Electronics Training Lab,Digital practical teaching
+ELEC,Electronics Training,Control Systems Simulation,Electronics Training Lab,Digital practical teaching
+IMFG,Intelligent Manufacturing,Robot Cell Control,Smart Manufacturing Lab,Digital practical teaching
+IMFG,Intelligent Manufacturing,CNC Virtual Workshop,Smart Manufacturing Lab,Digital practical teaching
+IMFG,Intelligent Manufacturing,Production Line Digital Twin,Smart Manufacturing Lab,Digital practical teaching
+IMFG,Intelligent Manufacturing,Quality Inspection Simulation,Smart Manufacturing Lab,Digital practical teaching
+IMFG,Intelligent Manufacturing,Industrial Process Monitoring,Smart Manufacturing Lab,Digital practical teaching
+NURS,Nursing Simulation,Patient Care Simulation,Virtual Nursing Simulation Lab,Digital practical teaching
+NURS,Nursing Simulation,Emergency Response Practical,Virtual Nursing Simulation Lab,Digital practical teaching
+NURS,Nursing Simulation,Clinical Assessment Lab,Virtual Nursing Simulation Lab,Digital practical teaching
+NURS,Nursing Simulation,Medication Safety Training,Virtual Nursing Simulation Lab,Digital practical teaching
+NURS,Nursing Simulation,Virtual Ward Monitoring,Virtual Nursing Simulation Lab,Digital practical teaching
+DMED,Digital Media,XR Content Studio,XR Media Studio,Digital practical teaching
+DMED,Digital Media,3D Rendering Lab,XR Media Studio,Digital practical teaching
+DMED,Digital Media,Interactive Design Practical,XR Media Studio,Digital practical teaching
+DMED,Digital Media,Media Pipeline Synchronization,XR Media Studio,Digital practical teaching
+DMED,Digital Media,Immersive Design Assessment,XR Media Studio,Digital practical teaching
+AUTO,Automotive Technology,EV Maintenance Practical,EV Training Lab,Digital practical teaching
+AUTO,Automotive Technology,Automotive Fault Diagnosis,EV Training Lab,Digital practical teaching
+AUTO,Automotive Technology,Engine Simulation,EV Training Lab,Digital practical teaching
+AUTO,Automotive Technology,Sensor Calibration Lab,EV Training Lab,Digital practical teaching
+AUTO,Automotive Technology,Battery Pack Safety Demonstration,EV Training Lab,Digital practical teaching

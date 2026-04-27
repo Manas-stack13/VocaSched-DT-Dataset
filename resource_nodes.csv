@@ -1,0 +1,15 @@
+﻿ResourceID,ResourceLayer,HomeDepartmentID,CPUCapacity,GPUCapacity,MemoryCapacityGB,BandwidthCapacityMbps,BaseNetworkRTTms,OperationalRole
+EDGE-01,Local Edge,NEM,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-02,Local Edge,ELEC,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-03,Local Edge,IMFG,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-04,Local Edge,NURS,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-05,Local Edge,DMED,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-06,Local Edge,AUTO,96,100,128,900,8,Low-latency practical teaching execution
+EDGE-07,Peer Edge,NEM,128,140,192,1200,22,Inter-departmental overflow execution
+EDGE-08,Peer Edge,ELEC,128,140,192,1200,22,Inter-departmental overflow execution
+EDGE-09,Peer Edge,IMFG,128,140,192,1200,22,Inter-departmental overflow execution
+EDGE-10,Peer Edge,NURS,128,140,192,1200,22,Inter-departmental overflow execution
+EDGE-11,Peer Edge,DMED,128,140,192,1200,22,Inter-departmental overflow execution
+CLOUD-12,Cloud,CAMPUS,256,240,512,2200,55,"Heavy solver execution, storage, and analytics"
+CLOUD-13,Cloud,CAMPUS,256,240,512,2200,55,"Heavy solver execution, storage, and analytics"
+CLOUD-14,Cloud,CAMPUS,256,240,512,2200,55,"Heavy solver execution, storage, and analytics"

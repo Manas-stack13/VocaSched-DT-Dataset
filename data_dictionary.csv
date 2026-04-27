@@ -1,0 +1,51 @@
+﻿ColumnName,Definition
+TaskID,Unique task record identifier
+RecordDate,Date assigned to the practical teaching event
+ScenarioCode,Operating scenario code
+ScenarioName,Operating scenario name
+DepartmentID,Department generating the task
+DepartmentName,Full department name
+CourseType,Practical course or laboratory activity
+LabType,Teaching laboratory type
+SessionType,"Simulation, Practice, Assessment, Sync, or Analytics"
+TaskClass,Workload class used for resource and constraint ranges
+BatchSize,Number of students associated with the task
+ExamCriticalFlag,1 when the task is assessment or exam linked
+SkillCriticality,"Importance of the task to practical skill learning, 0 to 1"
+CPU_Demand,CPU requirement in normalized demand units
+GPU_Demand,GPU or rendering or inference demand in normalized demand units
+Memory_Demand,Memory requirement in GB-equivalent units
+Bandwidth_Demand,Bandwidth requirement in Mbps-equivalent units
+ExpectedRuntime,Expected service duration in minutes
+ClassStartTime,Start of valid class window
+ClassEndTime,End of valid class window
+ArrivalTime,Task arrival time
+Deadline,Latest preferred completion time
+LatencyTolerance,Maximum acceptable latency in milliseconds
+ContinuitySensitivity,"Interruption penalty sensitivity, 0 to 1"
+MigrationTolerance,"Tolerance for reassignment or offload, 0 to 1"
+EdgeQueueLength,Observed edge queue length at decision time
+NodeUtilization,"Observed node utilization before placement, 0 to 1"
+NetworkRTT,Network round-trip time in milliseconds
+PacketLossRate,Packet loss percentage
+LabOccupancy,"Local teaching pressure, 0 to 1"
+NodeHealthScore,"Execution stability indicator, 0 to 1"
+PredictedNextSlotLoad,"Near-future demand forecast, 0 to 1"
+UrgencyScore,"Derived deadline and class-window urgency score, 0 to 1"
+FairnessCorrection,Department-level service balance correction
+CongestionRisk,"Derived congestion risk score, 0 to 1"
+VEPS_PriorityScore,VocaSched execution priority score
+AssignedResourceLayer,"Local Edge, Peer Edge, or Cloud"
+AssignedResourceID,Selected resource identifier
+PlacementUtility,Resource placement utility score
+Scheduler,Scheduling method used for comparison
+DecisionBasis,Primary decision logic of the scheduler
+Latency_ms,Completion latency in milliseconds
+DeadlineMet,1 if the task completes within the deadline
+WithinClassCompletion,1 if the task completes within the class window
+MissFlag,1 if latency tolerance or deadline is violated
+ResourceUtilization,"Utilization after placement, 0 to 1"
+OffloadingCost,Cost proxy for execution or offload
+SchedulingOverhead_ms,Scheduling decision overhead in milliseconds
+ContinuityScore,"Continuity preservation score, 0 to 100"
+CompletionTime,Estimated task completion time

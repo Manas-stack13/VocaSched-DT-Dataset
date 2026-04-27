@@ -1,0 +1,6 @@
+﻿Metric,Static Baseline,DRL-Based Adaptive Scheduler,VocaSched-DT
+Average response time ms,242,151,128
+Visible session stalls,7,3,1
+Within-class completion pct,83.3,92.4,96.7
+Instructor intervention count,6,3,1
+Student terminals with notable lag,8,3,1

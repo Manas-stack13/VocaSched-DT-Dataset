@@ -1,0 +1,7 @@
+﻿DepartmentID,DepartmentName,TaskRecords,Share_pct,AverageLatency_ms,WithinClassCompletion_pct,AverageContinuityScore,AverageOffloadingCost
+NEM,New Energy Materials,2104,33.94,113.94,88.07,92.11,5.711
+ELEC,Electronics Training,969,15.63,109.61,90.51,92.73,5.098
+IMFG,Intelligent Manufacturing,942,15.19,109.51,91.61,92.54,5.16
+NURS,Nursing Simulation,821,13.24,104.77,92.2,93.68,4.926
+DMED,Digital Media,683,11.02,109.17,93.27,92.69,5.06
+AUTO,Automotive Technology,681,10.98,110.77,91.19,92.56,5.053

@@ -1,0 +1,6 @@
+﻿ScenarioCode,ScenarioName,TaskRecords,NEM_TaskRecords,AverageLatency_ms,MissRatio_pct,WithinClassCompletion_pct,AverageContinuityScore,Purpose
+NORMAL,Normal teaching day,1394,477,86.15,28.12,89.38,96.81,Stable moderate-load teaching condition
+OVERLAP,Overlapping practical classes,1468,518,113.59,51.98,89.85,92.85,Concurrent practical classes across departments
+EXAM,Exam-week priority load,1195,410,90.17,35.48,92.55,95.58,Assessment-heavy load with tighter completion pressure
+NET_DEG,Network degradation,1047,323,134.46,61.89,90.16,89.83,Network delay and packet-loss stress
+EDGE_STRESS,Edge-node congestion or partial failure,1096,376,136.62,66.79,90.6,86.3,"Queue, utilization, and node-health stress"

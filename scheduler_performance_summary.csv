@@ -1,0 +1,7 @@
+﻿Scheduler,DecisionBasis,AverageLatency_ms,MissRatio_pct,ResourceUtilization_pct,AverageOffloadingCost,AverageSchedulingOverhead_ms,WithinClassCompletion_pct,AverageContinuityScore
+FCFS,Arrival order,225.64,84.44,67.95,5.777,3.12,90.44,77.76
+EDF,Earliest deadline,188.17,80.66,67.95,5.783,3.128,90.32,81.06
+Round Robin,Cyclic allocation,199.63,82.06,67.96,5.796,3.133,90.35,80.0
+Multi-Objective Optimizer,Delay-cost-utilization optimization,160.58,77.42,67.94,5.787,3.123,90.55,83.49
+DRL-Based Adaptive Scheduler,Learned runtime utility,148.65,73.24,67.95,5.797,4.428,90.42,84.86
+VocaSched-DT,Teaching-aware priority and adaptive placement,110.5,47.73,68.14,5.284,4.422,90.45,92.6

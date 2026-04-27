@@ -2,37 +2,40 @@
 Dataset and evaluation files for VocaSched-DT: A digital-twin-driven cloud-edge scheduling framework for practical teaching resources in higher education.
 VocaSched-DT Dataset Release
 
-Purpose:
-This repository contains the dataset files used to represent cloud-edge scheduling for practical teaching in higher education. The data structure follows the paper's task model, where each task record combines teaching context, resource demand, scheduling constraints, and digital-twin environment state.
+**VocaSched-DT: A Digital-Twin-Driven Cloud–Edge Collaborative Scheduling Framework for Practical Teaching Resources in Digital Education**
 
-Main files:
-1. task_records.csv
-   Core task-state records used as scheduler input.
-2. scheduler_decisions.csv
-   VocaSched-DT priority score, congestion risk, fairness correction, and placement decision.
-3. scheduler_results.csv
-   Evaluation results for FCFS, EDF, Round Robin, Multi-Objective Optimizer, DRL-Based Adaptive Scheduler, and VocaSched-DT.
-4. scheduler_performance_summary.csv
-   Overall comparison across system-level and teaching-service metrics.
-5. scenario_summary.csv
-   Scenario-level results for normal day, overlapping practical classes, exam-week priority load, network degradation, and edge-node stress.
-6. department_summary.csv
-   Department-level distribution and VocaSched-DT outcomes.
-7. practical_validation_nem_lab.csv
-   Practical classroom-side validation table for the NEM laboratory case.
-8. resource_nodes.csv
-   Local edge, peer edge, and cloud resource pool.
-9. course_catalog.csv
-   Department-wise practical course catalog.
-10. task_templates.csv
-   Workload template ranges for each task class.
-11. data_dictionary.csv
-   Column definitions.
-12. dataset_construction_protocol.csv
-   Stepwise construction protocol aligned with the methodology.
-13. quality_control_report.csv
-   Basic validation and consistency checks.
+## Overview
 
-Recommended use:
-- Open CSV files in Microsoft Excel.
-- Open TXT files in Notepad or any text editor.
+VocaSched-DT is a teaching-aware cloud–edge scheduling framework designed for practical teaching environments in higher education. The dataset represents practical teaching tasks as structured records combining:
+
+- Teaching context
+- Resource demand
+- Scheduling constraints
+- Digital-twin environment state
+- Scheduler decisions and evaluation outcomes
+
+## Repository Files
+
+| File | Description |
+|---|---|
+| `task_records.csv` | Main task-state records used as scheduler input |
+| `scheduler_decisions.csv` | VocaSched-DT priority scores, fairness correction, congestion risk, and placement decisions |
+| `scheduler_results.csv` | Evaluation results for FCFS, EDF, Round Robin, Multi-Objective Optimizer, DRL-Based Adaptive Scheduler, and VocaSched-DT |
+| `scheduler_performance_summary.csv` | Overall scheduler comparison across system-level and teaching-service metrics |
+| `scenario_summary.csv` | Scenario-wise performance under normal day, overlap, exam load, network degradation, and edge stress |
+| `department_summary.csv` | Department-wise distribution and VocaSched-DT outcomes |
+| `practical_validation_nem_lab.csv` | Practical validation results for the NEM laboratory case |
+| `resource_nodes.csv` | Local edge, peer edge, and cloud resource pool details |
+| `course_catalog.csv` | Department-wise practical course catalog |
+| `task_templates.csv` | Workload template ranges for each task class |
+| `data_dictionary.csv` | Column definitions |
+| `dataset_construction_protocol.csv` | Dataset construction steps aligned with the paper methodology |
+| `quality_control_report.csv` | Consistency and validation checks |
+| `file_index.txt` | List of repository files |
+
+## Dataset Structure
+
+The main task records follow the VocaSched-DT task model:
+
+```text
+Task = {Teaching Context, Resource Demand, Scheduling Constraints, Environment State}
